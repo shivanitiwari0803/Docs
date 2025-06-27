@@ -1,2 +1,0 @@
-# Docs
-practice react.js 
